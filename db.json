@@ -1,32 +1,32 @@
 {
   "information": "Здесь находятся товары, доступные под заказ. Доставка от 7 до 14 дней.",
-  "productCatalog": [
+  "products": [
     {
-      "productId": 1,
-      "productTitle": "Картошка фри 9мл LW(S01) «Стелс»",
-      "productImage": "https://pp.userapi.com/c854424/v854424988/a4a6c/smrK93rjCqM.jpg",
-      "productPrice": 2700,
-      "productCount": "10 / кг",
-      "productPresence": true,
-      "productEstimatedPrice": true
+      "id": 1,
+      "title": "Картошка фри 9мл LW(S01) «Стелс»",
+      "image": "https://pp.userapi.com/c854424/v854424988/a4a6c/smrK93rjCqM.jpg",
+      "price": 2700,
+      "count": "10 кг",
+      "presence": true,
+      "isEstimatedPrice": true
     },
     {
-      "productId": 1,
-      "productTitle": "Картошка фри 9мл LW(S01) «Стелс»",
-      "productImage": "https://pp.userapi.com/c854424/v854424988/a4a6c/smrK93rjCqM.jpg",
-      "productPrice": 2700,
-      "productCount": "10 / кг",
-      "productPresence": false,
-      "productEstimatedPrice": true
+      "id": 1,
+      "title": "Картошка фри 9мл LW(S01) «Стелс»",
+      "image": "https://pp.userapi.com/c854424/v854424988/a4a6c/smrK93rjCqM.jpg",
+      "price": 2700,
+      "count": "10 кг",
+      "presence": false,
+      "isEstimatedPrice": true
     },
     {
-      "productId": 1,
-      "productTitle": "Картошка фри 9мл LW(S01) «Стелс»",
-      "productImage": "https://pp.userapi.com/c854424/v854424988/a4a6c/smrK93rjCqM.jpg",
-      "productPrice": 2700,
-      "productCount": "10 / кг",
-      "productPresence": false,
-      "productEstimatedPrice": false
+      "id": 1,
+      "title": "Картошка фри 9мл LW(S01) «Стелс»",
+      "image": "https://pp.userapi.com/c854424/v854424988/a4a6c/smrK93rjCqM.jpg",
+      "price": 2700,
+      "count": "10 кг",
+      "presence": false,
+      "isEstimatedPrice": false
     }
   ]
 }
