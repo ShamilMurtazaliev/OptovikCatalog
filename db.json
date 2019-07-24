@@ -16,7 +16,7 @@
       "image": "https://pp.userapi.com/c854424/v854424988/a4a6c/smrK93rjCqM.jpg",
       "price": 2700,
       "count": "10 т",
-      "presence": false,
+      "presence": true,
       "isEstimatedPrice": true
     },
     {
@@ -25,16 +25,7 @@
       "image": "https://pp.userapi.com/c854424/v854424988/a4a6c/smrK93rjCqM.jpg",
       "price": 2700,
       "count": "10 шт",
-      "presence": false,
-      "isEstimatedPrice": false
-    },
-    {
-      "id": 1,
-      "title": "Картошка фри 9мл LW(S01) «Стелс»",
-      "image": "https://pp.userapi.com/c854424/v854424988/a4a6c/smrK93rjCqM.jpg",
-      "price": 2700,
-      "count": "10 шт",
-      "presence": false,
+      "presence": true,
       "isEstimatedPrice": false
     },
     {
@@ -44,6 +35,15 @@
       "price": 2700,
       "count": "10 шт",
       "presence": true,
+      "isEstimatedPrice": false
+    },
+    {
+      "id": 1,
+      "title": "Картошка фри 9мл LW(S01) «Стелс»",
+      "image": "https://pp.userapi.com/c854424/v854424988/a4a6c/smrK93rjCqM.jpg",
+      "price": 2700,
+      "count": "10 шт",
+      "presence": false,
       "isEstimatedPrice": false
     }
   ]
